@@ -66,4 +66,4 @@ Des.addEventListener("click",(event) => {
 const homeLink = document.querySelector("nav a");
 homeLink.addEventListener("click", event => {
   event.preventDefault();
-});
+});     
